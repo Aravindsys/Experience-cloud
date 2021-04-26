@@ -24,6 +24,21 @@ View this dashboard in the dashboard object
 
 Share CRM data securely with your partners:
 
+digital experiences > settings > roles and user > # of partner roles = 2
+If customer service template is used for exp cloud site > enable customer user action is added to contact
+If Partner template is used, enable partner account and enable partner user actions are added to account and contact respectively.
+
+Do the above step.
+Atlast at the end of the step, user record will be created for that contacts, license > partner community, profile > partner user profile
+if standard external profiles should also be visible here, go to digital experiences > settings > allow standard profiles (true)
+
+to active the experience cloud sites
+all sites > select your site > builder > publish > top left side(gift icon) administration > active.
+Sites should be activated for your users to be accessed.
+
+
+
+
 
 
 
