@@ -1,0 +1,12 @@
+To enable experience cloud 
+setup > digital experiences > enable
+choose domain and select
+setup > all sites > create a new site > give a name > choose a template >
+experience cloud design builder opens > customize your ogae an dpublish.
+Synonym group: 
+setup > synonym > create a new group > add all the related word > save.
+Its automatically added to your experience cloud sites
+Federated search: to search for results in external websites
+to implement use: https://help.salesforce.com/articleView?id=search_federated_parent.htm&language=en_US
+
+
