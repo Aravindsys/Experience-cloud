@@ -4,9 +4,26 @@ choose domain and select
 setup > all sites > create a new site > give a name > choose a template >
 experience cloud design builder opens > customize your ogae an dpublish.
 Synonym group: 
-setup > synonym > create a new group > add all the related word > save.
+setup > synonym > create a new group > add all the related word > save.  //upto 10000 synonym groups can be created
 Its automatically added to your experience cloud sites
 Federated search: to search for results in external websites
 to implement use: https://help.salesforce.com/articleView?id=search_federated_parent.htm&language=en_US
+
+To do search analytics on users data: 
+Use Community Search Dashboards 2.0
+install this app from the appexchange marketplace > Salesforce Communities Management (for Experience Cloud Sites with Chatter)
+setup > all sites > go to the site that you created.
+if clicked builder > experience cloud design builder
+click workspace (to add more components to experience cloud sites)
+click dashboard > left search > view the dashboard.
+left settings > all the dashboard label and its corresponding dashboards will be shown
+click edit dashboard.
+here you can add or remove reports, customize everything on reports. add visual force pages. use the components and data sources tab
+to do the stuffs.
+View this dashboard in the dashboard object
+
+Share CRM data securely with your partners:
+
+
 
 
