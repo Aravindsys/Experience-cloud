@@ -57,6 +57,43 @@ all the business partner accounts.
 
 Change the records ownership to your business partners so that they can access them
 
+Sharing records to external users:
+You can only share records to these two license types
+1) Customer Community Plus license
+2) Partner Community License
+
+public groups can be created using both internal and external users
+Sharing rules can also be enabled for partner roles and partner profiles and guest users as well
+with sharing rules, you can share only to roles and public groups
+
+Sharing sets:
+   - unique type available for sharing records with external users
+   - profile based sharing
+
+digital experience > settings > sharing sets > create a new one
+Sharing sets are containers of access mapping
+Access mapping can be enabled in two ways - direct and indirect
+only objects that have account/contact lookup will be eligible for sharing sets
+
+So atlast your crm data to partners can be shared via
+1) transfer ownership
+2) role hierarchy
+3) sharing rules ( based on role and public groups)
+4) sharing set ( based on profile)
+5) Account Relationships
+
+Account Relationships: business partner users of one account can have access to records owned by other business partner users
+To enable
+digital experiences > settings > enable account relationships
+after you enable it account relationship object is available in your org
+add the Account relationship: from and account relationship: to to related list page of account pagelayout
+
+setup > account relationship settings > configure it accordingly by settings the right account relationship type:
+got to > accounts > any account > related list > account realtionship > new (select the correct 
+account relationship type and it will tie up both) > save
+Account realtionship: from and account relationship: to are used in different manner in here
+
+
 
 
 
