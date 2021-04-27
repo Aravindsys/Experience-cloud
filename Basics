@@ -40,6 +40,15 @@ all sites > select your site > builder > publish > top left side(gift icon) admi
 Sites should be activated for your users to be accessed.
 
 
+Set external org wide defaults:
+guest users wont be considered as external users. They default have private. You cant change it. You can open them using sharing rules
+
+if you want to add any salesforce objects to the partner sites > builder > Navigation bar UI > add there
+
+if you want to login to the site as any customer user or partner user, go to contact record of that user > login to experience cloud 
+site as user
+
+
 
 
 
