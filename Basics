@@ -48,6 +48,11 @@ if you want to add any salesforce objects to the partner sites > builder > Navig
 if you want to login to the site as any customer user or partner user, go to contact record of that user > login to experience cloud 
 site as user
 
+You can also setup Account roles in experience sites,
+Account roles can be assigned to only external users,
+If a particular user role is Channel sales team => he gets access to all the business partner accounts or will be the head of
+all the business partner accounts
+
 
 
 
