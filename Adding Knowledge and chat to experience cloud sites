@@ -1,0 +1,20 @@
+To setup chat in your experience cloud sites 
+service setup > run chat with customer flow > copy and paste the url from experience cloud site
+To change the chat window title
+Deployements > edit chat setup flow > chat window title
+To enable skills for service agents
+Skills > create new skills and assign to users or profile
+To enable chat agent configurations
+chat agent configuration > create a new name and assign it to profiles and configure it
+accordingly
+
+To enable knowledge, run the knowledge setup flow and assign the users how needs permission
+Topics should be enabled for lightning knowledge articles to be accessible outside of 
+salesforce org
+Topics can be enabled only in salesforce classic UI
+
+topics for object > object > knowledge > select the fields > save
+
+while creating knowledge article records, make sure that visible to customers is selected and 
+create more and publish them
+
