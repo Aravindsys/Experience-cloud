@@ -1,0 +1,11 @@
+You can also create different page variations and assign a particular page to a different set of target
+audiences
+In the expereince cloud design builder > Home > Page variations > duplicate > create new one and name it 
+> configure the page accordingly > and add assign > assign it to different set of users
+Users are be filtered through their user record fields, or roles or profiles
+
+You can also assign particular components to target audience also. Click the drop down arrow
+on the components and assign your target audiences
+
+Brading sets: customize different colos, fonts and images for different target audiences
+Go to themes component > manage branding sets > create a new one and assign your target audiences
