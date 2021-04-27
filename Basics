@@ -32,6 +32,9 @@ Do the above step.
 Atlast at the end of the step, user record will be created for that contacts, license > partner community, profile > partner user profile
 if standard external profiles should also be visible here, go to digital experiences > settings > allow standard profiles (true)
 
+go to digital experiences > all sites > click the site you want > workspaces > adminsitration > members > select the profiles you want to
+access this site.
+
 to active the experience cloud sites
 all sites > select your site > builder > publish > top left side(gift icon) administration > active.
 Sites should be activated for your users to be accessed.
