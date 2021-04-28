@@ -18,3 +18,39 @@ topics for object > object > knowledge > select the fields > save
 while creating knowledge article records, make sure that visible to customers is selected and 
 create more and publish them
 
+To add knowledge base articles to experience cloud sites
+workspaces > content management > topics > navigational topics > create your names and add them
+go to featured topics > add them all
+click the pencil icon next to each topics and upload an thumbnail image
+
+now add knowledge articles to topics
+go to article management > and add all knowledge articles to topics. 
+
+Topics are needed to pull out knowledge base articles to experience cloud sites
+
+Add all the components or modify them as your wish
+to add chat support
+embedded chat service component > drag ad drop into the page > CSP(Content Security Policy)
+Error will popu up > click ok
+Settings > security policy > allow hosts > in the cant access pop-up > copy the url > add trusted sites > paste it and save it
+
+
+When Ask a Question is selected in the experience cloud site, it adds to particular topic's discussions.
+
+Rich Publisher apps:
+- Rich publisher apps can also be deployed to experience cloud sites.
+- Used for attaching a case to a feed, gif, videos, and much more.
+
+can be added in three ways
+- Managed appexchange apps
+- custom Lightning Components
+- Third party apps via change sets and deployements
+
+Custom Lightning components has 4 parts
+- composition component
+- render component
+- icon
+- localizable labels
+
+
+
