@@ -1,0 +1,6 @@
+A experience cloud template contains many theme layout components(tlc)
+say Customer Support template contains => Customer Supprt(tlc) for all pages except logins
+                                          Login Body (tlc) for login pages
+                                          
+
+You can also create your own Custom tlc.
