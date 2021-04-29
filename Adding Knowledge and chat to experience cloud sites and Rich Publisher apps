@@ -70,5 +70,12 @@ Now, add the app to the experience cloud site.
 Max 5 apps can be added to a single site.
 go to workspaces > administration > rich publisher apps > add them here.
 
+FeedItem is the salesforce object for discussion stuffs in experience cloud sites.
+FeedComment is the salesforce object for comments on a particular feed item.
 
+Whenever you create a rich publisher app, you are creating Chatter extension object
+Rich publisher apps API is available as ChatterExtension.
+
+You have more information on how to build rich pusblisher apps
+visit: https://trailhead.salesforce.com/content/learn/modules/rpa/rpa_build?trail_id=communities
 
