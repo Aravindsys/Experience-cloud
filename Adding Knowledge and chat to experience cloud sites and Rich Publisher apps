@@ -52,5 +52,23 @@ Custom Lightning components has 4 parts
 - icon
 - localizable labels
 
+upload some image file to salesforce org. So that the image file acts as icon in your rich publisher apps.
+copy the id of the file in the browser and paste it appropriately in the workbench and get the fileAssetId in the json response.
+Copy the file assetId. we need it later
+
+both compose and render aura components should implement interfaces to work properly.
+Render component gets two attributes by default.
+variant = feed/preview. use feed in feeditem layout and use preview in publisher layout
+payload = the corresponding selected item
+
+Rich publisher apps can be created only in Workbench.
+workbenck > data > insert > chatterextension
+
+create the rich publisher app by giving all the components and its Id.
+
+Now, add the app to the experience cloud site.
+Max 5 apps can be added to a single site.
+go to workspaces > administration > rich publisher apps > add them here.
+
 
 
